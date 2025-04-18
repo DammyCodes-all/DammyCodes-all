@@ -36,7 +36,7 @@ Hi! I'm Olagunju Alameen Dammylare (`<Dammy></Codes>`) – a developer who turns
 **Current Focus:**  
 Creating Fast, Responsive, Scalable and maintainable websites.
 
---
+
 
 ## 🤝 Let's Collaborate On
 
@@ -44,11 +44,11 @@ Creating Fast, Responsive, Scalable and maintainable websites.
 - Full-stack apps that need a caffeine-powered developer
 - That idea you've been procrastinating (I'll bring the ☕)
 
----
+
 
 ## 📫 Reach Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/your-profile)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/olagunju-alameen-822714355?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 *I respond faster than React state updates!*
 
 ---
